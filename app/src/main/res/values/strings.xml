@@ -1,0 +1,20 @@
+<resources>
+           <string name="app_name">Dog-Amour</string>
+    <string-array name="tipo">
+        <item>Grande</item>
+        <item>Mediano</item>
+        <item>Pequeño</item>
+    </string-array>
+
+    <string-array name="raza">
+        <item>Husky Siberiano</item>
+        <item>Cocker Spaniel</item>
+        <item>Labrador</item>
+        <item>Dalmata</item>
+        <item>Pastor Aleman</item>
+        <item>Alaskan Husky</item>
+        <item>Pug</item>
+        <item>Poodle</item>
+        <item>Criollo</item>
+    </string-array>
+</resources>
